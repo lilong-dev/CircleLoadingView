@@ -1,5 +1,13 @@
 # CircleLoadingView
 <img src="screen/screen.gif" width=400 height=680 />
+
+###(1)设置边框颜色
+###(2)设置边框宽度
+###(3)设置进度颜色
+###(4)设置背景色
+###(5)设置进度文本大小
+###(6)设置进度文本颜色
+
 ## Usage
 ```xml
 <com.ll.circleloadingview.CircleLoadingView
