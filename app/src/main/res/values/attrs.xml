@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleLoadingView">
+        <attr name="progressBgColor" format="color"></attr>
+        <attr name="circleViewBgColor" format="color"></attr>
+        <attr name="borderWidth" format="dimension"></attr>
+        <attr name="borderColor" format="color"></attr>
+        <attr name="progressTextColor" format="color"></attr>
+        <attr name="progressTextSize" format="dimension"></attr>
+    </declare-styleable>
+</resources>
