@@ -1,6 +1,8 @@
 # CircleLoadingView
 <img src="screen/screen.gif" width=400 height=680 />
 
+##CircleLoadingView的属性
+
 ###(1)设置边框颜色
 ###(2)设置边框宽度
 ###(3)设置进度颜色
